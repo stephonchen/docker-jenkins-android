@@ -1,1 +1,2 @@
-# docker-jenkins-android
+# Jenkins with Android SDK in Docker
+
